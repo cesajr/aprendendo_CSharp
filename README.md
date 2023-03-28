@@ -83,9 +83,11 @@ selecionar seis itens:
 
 ### Olá Mundo! Seu primeiro programa em C#<div id='ola'/>
 
-##### Criar um projeto
+#### Crie um projeto
+
 Para começar, crie um projeto de aplicativo em C#. O tipo de projeto vem com todos os arquivos de modelo que você precisa.
 
 1. Abra o Visual Studio e escolha Criar um novo projeto na janela Iniciar.
-   ![image](https://user-images.githubusercontent.com/63878294/228111264-2132072b-6c91-4055-8271-e2b5284b9893.png)
+![image](https://user-images.githubusercontent.com/63878294/228111264-2132072b-6c91-4055-8271-e2b5284b9893.png)
 
+... EM ELABORAÇÃO
