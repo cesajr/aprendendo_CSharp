@@ -51,7 +51,7 @@ Dentro deste framework existe o **CLR (Common Language Runtime)**, que tem a fun
 
 ### Ambiente de desenvolvimento<div id='prepdev'/>
 
-Inicialmente é preciso realizar o download do **Visual Studio**, direto do site da **[Microsoft](https://bit.ly/3lEsy6g)** e a instalação seguindo alguns cuidados.
+Inicialmente é preciso realizar o download do **Visual Studio**, direto do site da **[Microsoft]([https://bit.ly/3lEsy6g](https://visualstudio.microsoft.com/pt-br/downloads/)** e a instalação seguindo alguns cuidados.
 
 No link abaixo você terá acesso ao tutorial para preparar o ambiente de desenvolvimento C#:
 
